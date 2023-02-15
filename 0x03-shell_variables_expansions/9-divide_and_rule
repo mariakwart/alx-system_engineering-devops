@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($POWERDIVIDED))
+echo $(($POWER/$DIVIDED))
